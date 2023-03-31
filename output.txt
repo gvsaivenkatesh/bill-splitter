@@ -1,0 +1,10 @@
+CHAITHANYA needs to receive 375 from DIVYA
+ANAND needs to receive 250 from CHAITHANYA
+ANAND needs to pay 1500 to BALAJI
+ANAND needs to receive 625 from DIVYA
+BALAJI needs to receive 1750 from CHAITHANYA
+BALAJI needs to receive 1500 from ANAND
+BALAJI needs to receive 2125 from DIVYA
+DIVYA needs to pay 375 to CHAITHANYA
+DIVYA needs to pay 625 to ANAND
+DIVYA needs to pay 2125 to BALAJI
